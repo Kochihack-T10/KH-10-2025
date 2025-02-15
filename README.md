@@ -1,6 +1,6 @@
 # Brain of Organization - AI Chatbot
 
-This is a FastAPI-based internal AI chatbot designed for organizations to handle HR, IT, Finance, Legal, Security, and General queries. It integrates AI-powered responses, document management, and role-based access control.
+This is a internal AI chatbot designed for organizations to handle HR, IT, Finance, Legal, Security, and General queries. It integrates AI-powered responses, document management, and role-based access control.
 
 ---
 
